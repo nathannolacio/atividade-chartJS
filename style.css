@@ -1,0 +1,11 @@
+ .container-pai {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-grafico {
+    position: relative; 
+    height:40vh; 
+    width:80vw;
+}
